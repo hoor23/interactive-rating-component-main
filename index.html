@@ -202,16 +202,23 @@
  console.log("clicked");
         });
       });
-      document.querySelector("button").addEventListener('click', function(){
-  rating_state.classList.add('flip-out');
-  setTimeout(() => {
-      rating_state.classList.add('inactive_state');
-      rating_state.classList.remove('flip-out'); // Reset the flip
-      thanku_state.classList.remove('inactive_state');
-      thanku_state.classList.add('flip-in');
+    document.querySelector("button").addEventListener("click", function () {
+
+    if (selected_rating.innerHTML === "") {
+        alert("Please select a rating before submitting.");
+        return;
+    }
+
+    rating_state.classList.add("flip-out");
+
+    setTimeout(() => {
+        rating_state.classList.add("inactive_state");
+        rating_state.classList.remove("flip-out"); // Reset the flip
+        thanku_state.classList.remove("inactive_state");
+        thanku_state.classList.add("flip-in");
     }, 500); // Timeout matches the transition duration
 
-      });
+});
    
   </script>
 </body>

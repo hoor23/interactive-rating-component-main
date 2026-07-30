@@ -32,8 +32,8 @@ Interactive Rating Component Design(Thanky you state)
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/interactive-rating-component-main.git](https://github.com/hoor23/interactive-rating-component-main.git)
-- Live Site URL: [ https://hoor23.github.io/interactive-rating-component-main/]( https://hoor23.github.io/interactive-rating-component-main/)
+- Solution URL: [https://github.com/HooriaSaeeda/interactive-rating-component-main.git](https://github.com/HooriaSaeeda/interactive-rating-component-main.git)
+- Live Site URL: [https://hooriasaeeda.github.io/interactive-rating-component-main/]( https://hooriasaeeda.github.io/interactive-rating-component-main/)
 
 ## My process
 
@@ -112,8 +112,9 @@ Additional Animations: I’m considering adding further animations or visual eff
 
 ## Author
 
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
